@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\answer_selected.js">
+    <Files>
+      <File FileName="Assets\Scripts\answer_selected.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\load_data.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\answer_selected.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\test_card.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\change_card_data.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\nav.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\main_menu.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\play_audio.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\play_audio_test.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
